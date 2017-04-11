@@ -1,0 +1,5 @@
+---
+- src: https://github.com/thomaslorentsen/ansible-vars.git
+  version: master
+  name: hello_world
+...
